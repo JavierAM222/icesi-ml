@@ -1,0 +1,17 @@
+    1  top
+    2  git -version
+    3  apt install -y git
+    4  yum -version
+    5  sudo yum install -y git
+    6  git --version
+    7  clear
+    8  git --version
+    9  git clone git@github.com:JavierAM222/icesi-ml.git
+   10  $ ssh-keygen -t ed25519 -C "javieracostamunoz@gmail.com"
+   11  $ ssh-keygen -t ed25519 -C "javieracostam@hotmail.es"
+   12  $ ssh-keygen -t rsa -b 4096 -C "javieracostam@hotmail.es"
+   13  ll
+   14  ssh-keygen -t ed25519 -C "javieracostam@hotmail.es"
+   15  cat ~/.ssh/id_ed25519.pub
+   16  history
+   17  history > history_20230318.txt
